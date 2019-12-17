@@ -16,7 +16,7 @@ npm install --save usetrashable
 import useTrashable from 'usetrashable';
 
 const Component = (props) => {
-    const registerPromise = usePromise();
+    const registerPromise = useTrashable();
     registerPromise(apiCall()).then(() => {
             // ...
         }).catch(() => {
