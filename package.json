@@ -17,6 +17,10 @@
       "git add"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petewarman/usetrashable.git"
+  },
   "keywords": [
     "react",
     "promise",
@@ -27,6 +31,10 @@
   ],
   "author": "petewarman",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petewarman/usetrashable/issues"
+  },
+  "homepage": "https://github.com/petewarman/usetrashable#readme",
   "devDependencies": {
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
