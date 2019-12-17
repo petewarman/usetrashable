@@ -1,6 +1,6 @@
 {
   "name": "usetrashable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom hook to cancel unresolved promises when a component unmounts to prevent memory leaks",
   "main": "index.js",
   "scripts": {
